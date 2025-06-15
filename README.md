@@ -1,5 +1,7 @@
 # ABM_financial_bubble
-Agent Based Model representing a financial bubble
+Agent Based Model representing a financial bubble.
+
+A financial bubble is an economic cycle characterized by rapidly increasing prices of an asset to a point that is unsustainable, causing the asset to burst or contract in value. Financial bubbles follow five stages: displacement, boom, euphoria, profit taking and bust.
 
 ## Requirements
 - NetLogo 6.4.0 or later
